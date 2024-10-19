@@ -1,21 +1,22 @@
 # Health Plus
 
-Welcome to the Health Plus project repository! This is a React-based website aimed at providing accessible and personalized healthcare services to users. The website allows users to connect with expert doctors, schedule appointments, and receive expert medical advice.
+Welcome to Health Plus! This project is a React-based website designed to make healthcare accessible and personalized for everyone. With Health Plus, users can easily connect with doctors, book appointments, and get expert medical advice from the comfort of their homes.
 
 ## Project Overview
 
-- **Website**: [Health Plus](https://alkaison.github.io/Health-Plus/ "Health Plus")
-- **Framework**: React.js
-- **Deployment**: GitHub Pages
-- **Libraries**: React-Toastify, React Router DOM, FontAwesomeIcon
+Website: Health Plus
+Framework: React.js
+Deployment: GitHub Pages
+Libraries: React-Toastify (for notifications), React Router DOM (for navigation), FontAwesomeIcon (for icons)
 
 ## Features
-
-- Easily schedule appointments with the specialists.
-- Engage in virtual consultations to receive expert medical advice.
-- Responsive UI design for seamless user experience across devices.
-- Utilizes React-Toastify for notifications, React Router DOM for page routing, and FontAwesomeIcon for icons.
-- Deployed using GitHub Pages for easy access and sharing.
+Schedule appointments with specialists in just a few clicks.
+Participate in virtual consultations and get expert medical advice.
+The site is fully responsive, providing a smooth experience on any device.
+React-Toastify is used for quick, user-friendly notifications.
+Navigate effortlessly through the website with React Router DOM.
+Beautiful icons provided by FontAwesomeIcon.
+Deployed on GitHub Pages for easy sharing and accessibility.
 
 ## Screenshots
 
@@ -57,18 +58,28 @@ Welcome to the Health Plus project repository! This is a React-based website aim
 
 ## Deployment
 
-The website is deployed using GitHub Pages and can be accessed at [https://alkaison.github.io/Health-Plus/](https://alkaison.github.io/Health-Plus/).
+You can visit the live website here: https://awadepavan.github.io/HealthPlus/
 
 ## Getting Started
 
 To run the project locally:
 
-1. Clone this repository: `git clone https://github.com/Alkaison/Health-Plus.git`
-2. Navigate to the project directory: `cd Health-Plus`
-3. Install dependencies: `npm install`
-4. Start the development server: `npm start`
-5. Open your browser and visit: `http://localhost:3000/Health-Plus`
+If you want to run the website on your local machine, follow these simple steps:
 
+Clone this repository:
+git clone https://github.com/awadepavan/HealthPlus.git
+
+Go into the project folder:
+cd HealthPlus
+
+Install the required dependencies:
+npm install
+
+Start the development server:
+npm start
+
+Open your browser and go to:
+http://localhost:3000/HealthPlus
 ## Contributing
 
 Contributions are welcome! If you find a bug or have a feature request, please open an issue or submit a pull request.
